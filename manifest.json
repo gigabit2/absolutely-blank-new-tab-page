@@ -5,7 +5,7 @@
   "default_locale": "en",
   "content_security_policy": "script-src 'none'; object-src 'none'; default-src 'none'",
   "chrome_url_overrides": {
-    "newtab": "./blank.txt"
+    "newtab": "./blank.html"
   },
   "manifest_version": 2
 }
